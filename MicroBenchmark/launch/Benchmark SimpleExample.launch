@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<launchConfiguration type="scala.application">
+<stringAttribute key="bad_container_name" value="\MicroBenchmark\l"/>
+<listAttribute key="org.eclipse.debug.core.MAPPED_RESOURCE_PATHS">
+<listEntry value="/MicroBenchmark/src/ch/obermuhlner/scala/microbenchmark/example/SimpleExample.scala"/>
+</listAttribute>
+<listAttribute key="org.eclipse.debug.core.MAPPED_RESOURCE_TYPES">
+<listEntry value="1"/>
+</listAttribute>
+<stringAttribute key="org.eclipse.jdt.launching.MAIN_TYPE" value="ch.obermuhlner.scala.microbenchmark.example.SimpleExample"/>
+<stringAttribute key="org.eclipse.jdt.launching.PROJECT_ATTR" value="MicroBenchmark"/>
+<stringAttribute key="org.eclipse.jdt.launching.WORKING_DIRECTORY" value="${workspace_loc:MicroBenchmark}/output"/>
+</launchConfiguration>
